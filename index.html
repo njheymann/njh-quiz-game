@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&family=Lora&family=Moirai+One&family=Roboto+Condensed:ital,wght@0,300;1,400&family=Roboto:wght@100;400&display=swap" rel="stylesheet">
+    
+  </head>
+  <body>
+    <div class="hi-scores">
+      <div class="paragraphs">
+        <p><button id="show-hi-scores">high scores</button></p>
+        <p class="timer">Time:</p>
+      </div>
+      <div class="final-score">
+        <h1>Well done!</h1>
+        <h3 id="final-score-input">Your final score is:</h3>
+        <h3>Enter initials: <input id="initials-input"></input><button id="submit-button">Submit</button></h3>
+        <ul id="hi-scores-list"></ul>
+        <button id="clear-hi-scores">Clear high scores</button>
+        
+      </div>
+    </div>
+
+    <div class="start-quiz">
+      <div class="paragraphs">
+        <p><button data-action="show-hi-scores">high scores</button></p>
+        <p class="timer">Time: 70</p>
+      </div>
+      <div class="start-quiz-body">
+        <h1>Coding Quiz Challenge</h1>
+        <h3>
+          Try to answer the following code-related questions within the time
+          limit. Keep in mind that incorrect answers will penalize your
+          score/time by ten seconds!
+        </h3>
+        <h3><button id="start-quiz-button">Start Quiz</button></h3>
+      </div>
+    </div>
+
+    <div class="quiz">
+      <div class="paragraphs">
+        <p><button id="show-hi-scores">high scores</button></p>
+        <p class="timer">Time: 70</p>
+      </div>
+      <div class="multiple-choice">
+        <h1>Question</h1>
+
+        <button>1. Question</button>
+
+        <button>2. Question</button>
+
+        <button>3. Question</button>
+
+        <button>4. Question</button>
+
+        <div class="right-wrong">
+          <h3>ANSWER!</h3>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>
