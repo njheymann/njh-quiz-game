@@ -26,3 +26,10 @@ THEN I can play again.
 ![Screenshot 2023-06-18 205107](https://github.com/njheymann/njh-quiz-game/assets/125000756/0c9a234b-6559-4e5f-a8e5-128ab5a50a7d)
 ![Screenshot 2023-06-18 205129](https://github.com/njheymann/njh-quiz-game/assets/125000756/4c65b935-ba65-46c3-a037-6adb2ba376c0)
 ![Screenshot 2023-06-18 205147](https://github.com/njheymann/njh-quiz-game/assets/125000756/910d5cb2-7cce-4a8d-a8a8-9f6aa7d2aaaf)
+
+#LINKS
+Repository url: https://github.com/njheymann/njh-quiz-game
+Deployed url: https://njheymann.github.io/njh-quiz-game/
+
+#Comments
+I spent a lot of time on this, unfortunately I couldnt figure out how to create a 'play again' button that would reset my game logic when I re started the quiz so Ive just left it for now. Works fine when you refresh the page to play again. Will come back to it when I have a clearer head.
