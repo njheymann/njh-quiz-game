@@ -20,3 +20,9 @@ WHEN I enter my initials in the hiscores page and click 'submit'
 THEN my score is logged.
 WHEN I refresh the page
 THEN I can play again.
+
+#SCREENSHOTS
+![Screenshot 2023-06-18 205045](https://github.com/njheymann/njh-quiz-game/assets/125000756/0030485e-6788-4a37-969e-a0d7a9188ace)
+![Screenshot 2023-06-18 205107](https://github.com/njheymann/njh-quiz-game/assets/125000756/0c9a234b-6559-4e5f-a8e5-128ab5a50a7d)
+![Screenshot 2023-06-18 205129](https://github.com/njheymann/njh-quiz-game/assets/125000756/4c65b935-ba65-46c3-a037-6adb2ba376c0)
+![Screenshot 2023-06-18 205147](https://github.com/njheymann/njh-quiz-game/assets/125000756/910d5cb2-7cce-4a8d-a8a8-9f6aa7d2aaaf)
