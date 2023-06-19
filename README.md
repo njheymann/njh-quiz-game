@@ -33,3 +33,6 @@ Deployed url: https://njheymann.github.io/njh-quiz-game/
 
 # Comments
 I spent a lot of time on this, unfortunately I couldnt figure out how to create a 'play again' button that would reset my game logic when I re started the quiz so Ive just left it for now. Works fine when you refresh the page to play again. Will come back to it when I have a clearer head.
+
+# UPDATE
+Fixed the code and added a play again button.
